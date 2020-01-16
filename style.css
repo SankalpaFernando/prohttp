@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    margin-top: .2em;
+}
+#generate{
+    margin: .4em 0 .4em 0;
+}
+#response{
+    width: 50%;
+    margin: 2% 25% 2% 25%;
+    text-align: center;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
